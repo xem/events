@@ -1,0 +1,2 @@
+'AbbrArticleAsideAudioBdiCanvasDataDatalistDetailsFigureFigcaptionFooterHeaderHgroupKeygenMainMathMarkMenuitemMeterNavOutputProgressRpRtSectionSourceSummarySvgTimeTrackVideoWbr'.replace(/.[a-z]+/g,function(n){document.createElement(n)})
+document.documentElement.className=navigator.userAgent.replace(/.*IE (\d+).*|.*/,function(a,b,c){c="";if(b)for(a=11;a!=b;a--)c+=" lt-ie"+a;return c})
